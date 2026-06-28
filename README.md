@@ -1,5 +1,23 @@
 # Olá, eu sou o Marco! 👋
-<br>
+
+## 🚀 Sobre mim
+
+💼 Atualmente atuo como **Auxiliar de Processos e RPA na Sicredi PR/SP**
+
+🎯 Meu foco é evoluir continuamente na área de tecnologia, aprofundando meus conhecimentos em:
+
+Python // Desenvolvimento Backend // Desenvolvimento Full Stack // APIs REST // Banco de Dados // Arquitetura de Software // Automação de Processos
+
+Gosto de criar soluções que simplificam tarefas, aumentam produtividade e geram valor através da tecnologia.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marco-guilherme-vitorino-moreira-a1457b194/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:marcobazinga65@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
 ## 📊 Estatísticas
 
